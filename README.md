@@ -1,5 +1,4 @@
 <div align="center">
-
 # HELIXERA
 
 ### Biology, rewritten with intent.
