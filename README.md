@@ -1,6 +1,6 @@
 <div align="center">
 
-# HELIXERA*
+# HELIXERA
 
 ### Biology, rewritten with intent.
 
@@ -14,7 +14,7 @@
 ![Motion](https://img.shields.io/badge/reduced--motion-respected-orange?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-acid?style=flat-square)
 
-[Live Demo](https://khdxsohee.github.io/helixera-bioworks/) · [Report Bug](https://github.com/khdxsohee/helixera-bioworks/issues) · [Request Feature](https://github.com/khdxsohee/helixera-bioworks/issues)
+[Live Demo](https://khdxsohee.web.app/projects/helixera-bioworks.html) · [Report Bug](https://github.com/khdxsohee/helixera-bioworks/issues) · [Request Feature](https://github.com/khdxsohee/helixera-bioworks/issues)
 
 </div>
 
@@ -56,6 +56,8 @@ Instead, the page borrows the visual language of an actual biotech lab: specimen
 - 🎨 **Opinionated design identity** — bone-paper + ink + acid-green palette with a three-typeface system
 - ⚙️ **Zero dependencies** — no React, no Tailwind, no build step. One file, double-click, done
 - ♿ **Respectful of user preferences** — every animation honors `prefers-reduced-motion`
+
+<img width="1351" height="639" alt="image" src="https://github.com/user-attachments/assets/47b27f9a-059c-40b4-b7a9-305773420b81" />
 
 ---
 
